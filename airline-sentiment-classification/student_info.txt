@@ -1,0 +1,3 @@
+YOUR NAME:Ryskulov Almat
+Project Title:Sentiment Classification of Airline Reviews Using Deep Learning
+Your desired grade: C+ Level (70 points)
